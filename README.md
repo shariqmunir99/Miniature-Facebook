@@ -2,7 +2,7 @@
 
 
 
-# Miniature Facebook 🎮 
+# Miniature Facebook  
 
 A facebook clone having obeject oriented programming practices made using c++ language.
 
